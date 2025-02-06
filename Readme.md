@@ -12,6 +12,10 @@ A passionate AI engineer cum full stack developer from india
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishal-m25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-m25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 📊**Leetcode Stats**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vishal_m25?theme=dark)](https://leetcode.com/Vishal_m25)
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishal-m25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
